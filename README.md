@@ -13,6 +13,13 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 Typescript
 
+
+
+https://github.com/Sunat-Nur/calculator/assets/107460955/8fdd6f8e-50f9-46ec-840c-b288649241e6
+
+
+
+
 ## React
 
 Use yarn package
